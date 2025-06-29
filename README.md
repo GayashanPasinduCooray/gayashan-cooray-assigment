@@ -28,3 +28,4 @@ This project automates testing of the eBay related products feature using Playwr
 
 ## Author
 P.L Gayashan Pasindu Cooray
+cooraygayashan@gmail.com
